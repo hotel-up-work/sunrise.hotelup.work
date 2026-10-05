@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sunrise.webart.work/sitemap.xml
+Sitemap: https://sunrise.hotelup.work/sitemap.xml
